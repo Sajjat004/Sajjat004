@@ -8,12 +8,16 @@
     <a href="https://www.linkedin.com/in/mh-sajjat/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://discord.com/users/870589876867858463">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
   </div>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Sajjat+Hossen!;+I'm+a+software+engineer." />
   </h1>
 </div>
+
+
 
 ### My Github Stats
 <p align="center"> 
@@ -144,15 +148,40 @@
 
  <div id="badges">
   <a href="https://codeforces.com/profile/Sajjat004">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://leetcode.com/u/Sajjat004/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/sajjat004">
-    <img src="https://img.shields.io/badge/CodeChef-7289DA?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+    <img src="https://img.shields.io/badge/CodeChef-7289DA?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://cses.fi/problemset/user/62271/">
+    <img src="https://img.shields.io/badge/CSES-0047AB?style=for-the-badge&logo=cses&logoColor=white" alt="CSES"/>
+  </a>
+  <a href="https://lightoj.com/user/sajjat004">
+    <img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=lightoj&logoColor=white" alt="LightOJ"/>
+  </a>
+  <a href="https://toph.co/u/Sajjat004">
+    <img src="https://img.shields.io/badge/Toph-green?style=for-the-badge&logo=toph&logoColor=white" alt="Toph"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Sajjat004">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.spoj.com/myaccount/">
+    <img src="https://img.shields.io/badge/SPOJ-0C0C0C?style=for-the-badge&logo=spoj&logoColor=white" alt="SPOJ"/>
+  </a>
+  <a href="https://atcoder.jp/users/Sajjat004">
+    <img src="https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
+  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15">
+    <img src="https://img.shields.io/badge/UVA-red?style=for-the-badge&logo=uva&logoColor=white" alt="UVA"/>
+  </a>
+  <a href="https://www.stopstalk.com/user/profile/Sajjat004">
+    <img src="https://img.shields.io/badge/StopStalk-gray?style=for-the-badge&logo=stopstalk&logoColor=white" alt="StopStalk"/>
   </a>
 </div>
+
 
 ### My Github Streak
 
