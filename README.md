@@ -12,17 +12,17 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
-  <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Sajjat+Hossen!;+I'm+a+software+engineer." />
-  </h1>
 </div>
 
-
+---
 
 ### My Github Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sajjat004&show_icons=true&count_private=true&theme=dark" alt="Sajjat" /> 
 </p>
+
+<h1></h1>
 
 ### My Stacks
 
@@ -74,6 +74,9 @@
         </td>
         <td align="center">
           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="55" height="55"/>
+        </td>
+        <td align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>
         </td>
     </tr>
 </table>
@@ -144,6 +147,8 @@
     </tr>
 </table>
 
+<h1></h1>
+
 ### My CP Handles
 
  <div id="badges">
@@ -182,12 +187,15 @@
   </a>
 </div>
 
+<h1></h1>
 
 ### My Github Streak
 
-<!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajjat004&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
- 
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjat004&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Sajjat004/github-readme-stats)
+<div style="display: flex; align-items: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjat004&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" style="margin-right: 10px;">
+  </a>
+  <a href="https://github.com/Sajjat004/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjat004&theme=dark&layout=compact&align=right&width=40%" alt="Top Languages">
+  </a>
+</div>
