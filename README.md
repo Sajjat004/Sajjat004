@@ -64,6 +64,7 @@
         <td align="center">HTML</td>
         <td align="center">CSS</td>
         <td align="center">JavaScript</td>
+        <td align="center">Bootstrap</td>
     </tr>
     <tr>
         <td align="center">
