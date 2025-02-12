@@ -12,14 +12,14 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
   </div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Sajjat+Hossen.;+I'm+a+software+engineer." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋" />
 </div>
 
 ---
 
 ### My Github Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjat004&show_icons=true&count_private=true&theme=dark" alt="Sajjat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajjat004&show_icons=true&count_private=true&theme=dark" alt="Sajjat" /> 
 </p>
 
 <h1></h1>
