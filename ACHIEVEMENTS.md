@@ -19,7 +19,7 @@
 
 | Hackathon | Achievement | Team Name | Link |
 |:----------|:-----------:|:----------|:-----|
-| **NASA Space Apps Challenge 2024** | `Regional 1st Runner Up` | Novochari | [Profile](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/novochari1/) |
-| **NASA Space Apps Challenge 2023** | `Finalist` (Top 50 teams) | Novochari | [Profile](https://www.spaceappschallenge.org/2023/find-a-team/novochari/) |
+| **NASA Space Apps Challenge 2024** | `Regional 1st Runner Up` | Novochari | [View Profile](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/novochari1/) |
+| **NASA Space Apps Challenge 2023** | `Finalist` (Top 50 teams) | Novochari | [View Profile](https://www.spaceappschallenge.org/2023/find-a-team/novochari/) |
 | **CODE SAMURAI 2022** | `Finalist` (Top 25 teams) | Team_Intrepid | - |
-| **National STEAM Olympiad** | `Finalist` | eam_Intrepid | - |
+| **National STEAM Olympiad** | `Finalist` | Team_Intrepid | - |
