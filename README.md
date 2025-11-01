@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mh-sajjat/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/870589876867858463)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://sajjat004.dev)
- <img src="https://komarev.com/ghpvc/?username=Sajjat004">
 
 I'm a Software Engineer at Brain Station 23, specializing in building scalable and maintainable applications using .NET Core, C#, Entity Framework Core, and MsSQL Server, PostgreSQL. With a strong background in backend development, database design, and API integration, I'm passionate about turning complex business requirements into robust, high-performance software solutions that deliver real value.
 
