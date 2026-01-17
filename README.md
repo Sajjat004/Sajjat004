@@ -13,9 +13,9 @@ I'm a Software Engineer at Brain Station 23, specializing in building scalable a
 
 
 ## Skills
-- **Languages** - ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp) ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+- **Languages** - ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp) ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 - **Backend** - ![.NET Core](https://img.shields.io/badge/-.NET%20Core-000000?style=flat&logo=.net) ![EF Core](https://img.shields.io/badge/-EF%20Core-000000?style=flat&logo=.net)
-- **Frontend** - ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+- **Frontend** - ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 - **Database** - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) ![MsSQL Server](https://img.shields.io/badge/-MsSQL%20Server-000000?style=flat&logo=microsoft%20sql%20server)
 - **Data Stores** - ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 - **Infra** - ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
