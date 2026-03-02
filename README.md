@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/870589876867858463)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://sajjat004.dev)
 
-I'm a Software Engineer at Brain Station 23, specializing in building scalable and maintainable applications using .NET Core, C#, Entity Framework Core, React, Next.JS and MsSQL Server, PostgreSQL. With a strong background in backend development, database design, and API integration, I'm passionate about turning complex business requirements into robust, high-performance software solutions that deliver real value.
+I'm a Software Engineer at Brain Station 23, specializing in building scalable and maintainable applications using .NET Core, React, NextJS, NestJS and MsSQL Server, PostgreSQL. With a strong background in backend engineering, database design, and API integration, I'm passionate about turning complex business requirements into robust, high-performance software solutions that deliver real value.
 
 > 💡 *I’m passionate about backend engineering, solving complex problems, and continuously learning to enhance system performance and scalability.*
 
